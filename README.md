@@ -6,6 +6,8 @@ El proposito principal de este repositorio de GitHub es tener siempre en un luga
 </div>
 
 ### Temario
+- [Busqueda binaria](Temario/Busqueda%20Binaria.md)
+
 
  
 
