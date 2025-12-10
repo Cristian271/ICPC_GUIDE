@@ -11,7 +11,7 @@ La busqueda binaria es un algoritmo de programación que trata de ir "partiendo"
 ## Como aplicarlo
 Supongamos que queremos saber si un numero k se encuentra en un arreglo de n elementos, el programa va a recibir primero un numero k a encontrar y un numero n que es el tamaño del arreglo
 ```cpp
-#include <bits/stdio.h>
+#include <bits/stdc++.h>
 using namespace std;
   
 int main(){
