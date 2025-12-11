@@ -6,6 +6,7 @@ El proposito principal de este repositorio de GitHub es tener siempre en un luga
 </div>
 
 ### Temario
+- [Prefix Sum](Temario/Prefix%20Sum.md)
 - [Busqueda binaria](Temario/Busqueda%20Binaria.md)
 
 
